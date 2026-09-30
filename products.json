@@ -19,56 +19,56 @@
   },
   {
     "id": 3,
-    "name": "Pokémon TCG Booster Box",
-    "category": "Trading Cards",
-    "price": 129.99,
-    "rating": 4.7,
-    "reviews": 217,
+    "name": "Super Nintendo Classic Edition",
+    "category": "Retro Consoles",
+    "price": 99.99,
+    "rating": 4.8,
+    "reviews": 104,
     "image": "assets/images/products/p03.jpg"
   },
   {
     "id": 4,
-    "name": "LEGO Hogwarts Castle",
-    "category": "LEGO Sets",
-    "price": 399.99,
-    "rating": 4.9,
-    "reviews": 89,
-    "image": "assets/images/products/p04.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Goku Collector Figure",
-    "category": "Action Figures",
-    "price": 12.99,
-    "rating": 4.9,
-    "reviews": 421,
-    "image": "assets/images/products/p05.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Xbox Series X 1TB Console",
-    "category": "Consoles",
-    "price": 499.99,
-    "rating": 4.7,
-    "reviews": 95,
-    "image": "assets/images/products/p06.jpg"
-  },
-  {
-    "id": 7,
     "name": "The Legend of Zelda: Breath of the Wild",
     "category": "Video Games",
     "price": 59.99,
     "rating": 4.9,
     "reviews": 306,
+    "image": "assets/images/products/p04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pok\u00e9mon TCG Booster Box",
+    "category": "Trading Cards",
+    "price": 129.99,
+    "rating": 4.7,
+    "reviews": 217,
+    "image": "assets/images/products/p05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LEGO Hogwarts Castle",
+    "category": "LEGO Sets",
+    "price": 399.99,
+    "rating": 4.9,
+    "reviews": 89,
+    "image": "assets/images/products/p06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Goku Collector Figure",
+    "category": "Action Figures",
+    "price": 12.99,
+    "rating": 4.9,
+    "reviews": 421,
     "image": "assets/images/products/p07.jpg"
   },
   {
     "id": 8,
-    "name": "Hot Wheels Ferrari SF90 Stradale 1:18",
-    "category": "Collectible Models",
-    "price": 129.99,
-    "rating": 4.8,
-    "reviews": 73,
+    "name": "Xbox Series X 1TB Console",
+    "category": "Consoles",
+    "price": 499.99,
+    "rating": 4.7,
+    "reviews": 95,
     "image": "assets/images/products/p08.jpg"
   }
 ]

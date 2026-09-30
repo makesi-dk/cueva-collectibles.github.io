@@ -1,17 +1,9 @@
-# CUEVA Collectibles — V2 Release Notes
+# CUEVA Collectibles — V2
 
-## Image Quality Fix
-- Removed screenshot-derived product assets that contained neighboring products or interface text.
-- Product cards now use clean, local product photography assets.
-- Product images use `object-fit: contain` so products are never cropped inside cards.
-- Product detail and cart thumbnails also preserve the full product frame.
-
-## Catalog Cleanup
-- Reduced the demo catalog to products with clean, correctly matched imagery.
-- Standardized the console and collectible-model category naming.
-- Corrected the `Statues & Busts` navigation label.
-
-## Technical
-- GitHub Pages compatible.
-- All website assets remain local.
-- Existing cart, wishlist, filters, product detail, support, and responsive behavior retained.
+## Image quality rebuild
+- Replaced the previous featured-product screenshot crops with clean, isolated product photography crops.
+- Product cards now use square local assets with consistent white presentation and full-object framing.
+- Removed embedded text/buttons from category and promotional image assets.
+- Promotional cards keep copy in HTML instead of baking UI text into the photography.
+- Catalog names were synchronized with the actual product images.
+- All assets remain local for GitHub Pages.
