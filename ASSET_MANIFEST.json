@@ -1,5 +1,5 @@
 {
-  "version": "V2",
+  "version": "3.0.0",
   "product_assets": 8,
   "local_assets": true,
   "image_rule": "contain_no_crop",
