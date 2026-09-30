@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "PlayStation 5 Console (Disc Edition)",
-    "category": "Retro Consoles",
+    "category": "Consoles",
     "price": 499.99,
     "rating": 4.8,
     "reviews": 124,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Nintendo Switch OLED (White)",
-    "category": "Retro Consoles",
+    "category": "Consoles",
     "price": 349.99,
     "rating": 4.8,
     "reviews": 312,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "Pok\u00e9mon TCG Booster Box",
+    "name": "Pokémon TCG Booster Box",
     "category": "Trading Cards",
     "price": 129.99,
     "rating": 4.7,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "Funko Pop! Goku",
+    "name": "Goku Collector Figure",
     "category": "Action Figures",
     "price": 12.99,
     "rating": 4.9,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Xbox Series X 1TB Console",
-    "category": "Retro Consoles",
+    "category": "Consoles",
     "price": 499.99,
     "rating": 4.7,
     "reviews": 95,
@@ -65,154 +65,10 @@
   {
     "id": 8,
     "name": "Hot Wheels Ferrari SF90 Stradale 1:18",
-    "category": "Accessories",
+    "category": "Collectible Models",
     "price": 129.99,
     "rating": 4.8,
     "reviews": 73,
     "image": "assets/images/products/p08.jpg"
-  },
-  {
-    "id": 9,
-    "name": "PlayStation 2 Slim Console",
-    "category": "Retro Consoles",
-    "price": 149.99,
-    "rating": 4.7,
-    "reviews": 128,
-    "image": "assets/images/products/p09.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Super Nintendo Classic Edition",
-    "category": "Retro Consoles",
-    "price": 179.99,
-    "rating": 4.8,
-    "reviews": 96,
-    "image": "assets/images/products/p10.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Nintendo Entertainment System",
-    "category": "Retro Consoles",
-    "price": 169.99,
-    "rating": 4.6,
-    "reviews": 142,
-    "image": "assets/images/products/p11.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Pok\u00e9mon Charizard Base Set Slab",
-    "category": "Trading Cards",
-    "price": 699.99,
-    "rating": 4.9,
-    "reviews": 84,
-    "image": "assets/images/products/p12.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Funko Pop! Luffy",
-    "category": "Action Figures",
-    "price": 12.99,
-    "rating": 4.8,
-    "reviews": 112,
-    "image": "assets/images/products/p13.jpg"
-  },
-  {
-    "id": 14,
-    "name": "Sega Genesis Console",
-    "category": "Retro Consoles",
-    "price": 129.99,
-    "rating": 4.6,
-    "reviews": 64,
-    "image": "assets/images/products/p14.jpg"
-  },
-  {
-    "id": 15,
-    "name": "One Piece Manga Box Set",
-    "category": "Anime & Manga",
-    "price": 189.99,
-    "rating": 4.9,
-    "reviews": 64,
-    "image": "assets/images/products/p15.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Acrylic Display Case with LED Light",
-    "category": "Display & Storage",
-    "price": 39.99,
-    "rating": 4.7,
-    "reviews": 142,
-    "image": "assets/images/products/p16.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Mandalorian Helmet Display Replica",
-    "category": "Statues & Busts",
-    "price": 189.99,
-    "rating": 4.8,
-    "reviews": 61,
-    "image": "assets/images/products/p17.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Collector Card Storage Box",
-    "category": "Accessories",
-    "price": 24.99,
-    "rating": 4.6,
-    "reviews": 93,
-    "image": "assets/images/products/p18.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Dragon Ball Display Figure",
-    "category": "Action Figures",
-    "price": 44.99,
-    "rating": 4.8,
-    "reviews": 117,
-    "image": "assets/images/products/p19.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Retro Game Cartridge Organizer",
-    "category": "Display & Storage",
-    "price": 29.99,
-    "rating": 4.7,
-    "reviews": 58,
-    "image": "assets/images/products/p20.jpg"
-  },
-  {
-    "id": 21,
-    "name": "Pok\u00e9mon Premium Collection Box",
-    "category": "Trading Cards",
-    "price": 79.99,
-    "rating": 4.8,
-    "reviews": 91,
-    "image": "assets/images/products/p21.jpg"
-  },
-  {
-    "id": 22,
-    "name": "Classic Controller Display Stand",
-    "category": "Display & Storage",
-    "price": 34.99,
-    "rating": 4.7,
-    "reviews": 76,
-    "image": "assets/images/products/p22.jpg"
-  },
-  {
-    "id": 23,
-    "name": "Anime Collector Figure \u2014 Limited Edition",
-    "category": "Action Figures",
-    "price": 89.99,
-    "rating": 4.8,
-    "reviews": 52,
-    "image": "assets/images/products/p23.jpg"
-  },
-  {
-    "id": 24,
-    "name": "Collector Shelf Accent Light",
-    "category": "Display & Storage",
-    "price": 49.99,
-    "rating": 4.6,
-    "reviews": 68,
-    "image": "assets/images/products/p24.jpg"
   }
 ]

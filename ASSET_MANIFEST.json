@@ -1,17 +1,7 @@
 {
-  "project": "CUEVA Collectibles",
-  "version": "1.0.0",
-  "language": "English",
-  "pages": [
-    "index.html",
-    "shop.html",
-    "product.html",
-    "about.html",
-    "support.html",
-    "404.html"
-  ],
-  "product_count": 24,
-  "image_policy": "Local assets only",
-  "support_email": "support@cuevacollectibles.com",
-  "support_phone": "+1 (888) 555-0123"
+  "version": "V2",
+  "product_assets": 8,
+  "local_assets": true,
+  "image_rule": "contain_no_crop",
+  "validated": true
 }
