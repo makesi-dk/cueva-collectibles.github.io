@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".heart").forEach(b=>b.addEventListener("click",()=>b.classList.toggle("active")));document.querySelectorAll(".add").forEach(b=>b.addEventListener("click",()=>{b.textContent="Added to Cart ✓";setTimeout(()=>b.textContent="Add to Cart",1200)}));});
